@@ -12,6 +12,7 @@
         "file": "RaspberryJamMod.jar",
         "url": "https://github.com/stef-the/test-data/blob/main/RaspberryJamMod.jar?raw=true",
         "forge_id": "-",
-        "hash": "-"
+        "hash": "-",
+        "enabled": true
     }
 ]
