@@ -1,0 +1,17 @@
+[
+    {
+        "id": "raspberryjam",
+        "nicknames": ["rjm"],
+        "display": "Raspberry Jam Mod",
+        "creator": "-",
+        "command": "-",
+        "description": "-",
+        "icon": "mixces.png",
+        "actions": [],
+        "categories": ["5;All PvP"],
+        "file": "RaspberryJamMod.jar",
+        "url": "https://github.com/stef-the/test-data/",
+        "forge_id": "-",
+        "hash": "-"
+    }
+]
